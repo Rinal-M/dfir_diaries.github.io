@@ -18,7 +18,6 @@ plugins:
   - jekyll-feed
 
   
-# Navigation links
-nav_links:
-  - title: "Night Walker Challenge Report"
-    url: "https://github.com/Rinal-M/dfir_diaries.github.io/blob/main/Night_Walker_Report2.pdf" # URL to the PDF
+# Navigation links (optional, for adding links to the top of your site)
+header_pages:
+  - index.md
