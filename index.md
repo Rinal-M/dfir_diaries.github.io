@@ -1,7 +1,3 @@
----
-layout: home
-title: "Malware Diaries"
----
 
 # Recent Posts
 Malware samples walkthroughs and other insights
