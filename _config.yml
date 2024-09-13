@@ -1,23 +1,9 @@
-# Site settings
-title: "Malware Diaries" # This is the title of your blog. If you think it's showing twice, you can comment it out.
-description: "A blog dedicated to malware analysis and cybersecurity insights." # If the description is showing in multiple places, comment it out.
-
-# Author information
-author: "Rinal" # You can leave this if you'd like to show the author info on posts.
-
-# URL settings (Update later if needed)
-# baseurl: "" # Leave blank unless your site is hosted in a subdirectory
-# url: "https://username.github.io" # Uncomment this when your repo is public
-
-# Theme and markdown engine
-markdown: kramdown
+title: "Malware Diaries"
+description: "A blog dedicated to malware analysis and cybersecurity insights."
+author: "Rinal"
 theme: minima
+markdown: kramdown
 
-# Plugins
-plugins:
-  - jekyll-feed
-
-  
-# Navigation links (optional, for adding links to the top of your site)
+# Optional navigation links (can be customized later)
 header_pages:
   - index.md
