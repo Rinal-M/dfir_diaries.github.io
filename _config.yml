@@ -9,8 +9,8 @@ author: "Rinal" # Your name or pseudonym
 # Build settings
 markdown: kramdown
 theme: minima # Jekyll theme (you can change this to a different theme later)
-plugins:
-  - jekyll-feed # Adds RSS feed support
+# plugins:
+#   - jekyll-feed # Adds RSS feed support
 
 # # Pagination settings
 # paginate: 5 # Number of posts per page
