@@ -1,9 +1,9 @@
 # Site settings
 title: "Malware Diaries" # This is the title of your blog. If you think it's showing twice, you can comment it out.
-# description: "A blog dedicated to malware analysis and cybersecurity insights." # If the description is showing in multiple places, comment it out.
+description: "A blog dedicated to malware analysis and cybersecurity insights." # If the description is showing in multiple places, comment it out.
 
 # Author information
-author: "Rana" # You can leave this if you'd like to show the author info on posts.
+author: "Rinal" # You can leave this if you'd like to show the author info on posts.
 
 # URL settings (Update later if needed)
 # baseurl: "" # Leave blank unless your site is hosted in a subdirectory
