@@ -1,6 +1,5 @@
 ---
 layout: home
-title: "Malware Diaries"
 ---
 
 Welcome to Malware Diaries! This portfolio is dedicated to documenting malware samples, walkthroughs, and other cybersecurity insights.
