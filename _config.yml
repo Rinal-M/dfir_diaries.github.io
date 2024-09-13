@@ -1,0 +1,23 @@
+# Site settings
+title: "Malware Diaries" # Your blog name
+description: "A blog dedicated to malware analysis and cybersecurity insights." # A short description of your blog
+author: "Rinal" # Your name or pseudonym
+# email: "rinalmohamed@aucegypt.edu" # Your contact email (optional)
+# baseurl: "" # The subpath of your site, e.g. /blog. Leave empty if you're hosting on `username.github.io`.
+# url: "https://username.github.io" # The base URL of your site (update this once your site is public)
+
+# Build settings
+markdown: kramdown
+theme: minima # Jekyll theme (you can change this to a different theme later)
+plugins:
+  - jekyll-feed # Adds RSS feed support
+
+# # Pagination settings
+# paginate: 5 # Number of posts per page
+
+# # Social settings (optional)
+# twitter_username: your_twitter_handle
+# github_username: username
+
+# # SEO settings (optional)
+# google_analytics: UA-XXXXXXXX-X # Your Google Analytics tracking ID (if you want to
