@@ -1,12 +1,18 @@
 title: "Malware Diaries"
 description: "A blog dedicated to malware analysis and cybersecurity insights."
-author: "Rinal"
+author: "my name"
 theme: minima
 markdown: kramdown
+
+# Base URL settings
+baseurl: "/dfir_diaries.github.io"  # Replace this with the actual name of your repository
+url: https://rinal-m.github.io/dfir_diaries.github.io/"  # Replace with your GitHub Pages URL
 
 # Optional navigation links
 header_pages:
   - index.md
-  - zero2auto.md  # New section
-  - insights.md   # New section
-  - walkthroughs.md # New section
+  - zero2auto.md
+  - insights.md
+  - walkthroughs.md
+
+permalink: /:title/
