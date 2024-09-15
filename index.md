@@ -9,9 +9,3 @@ Welcome to Malware Diaries! This portfolio is dedicated to documenting malware s
 - [Zero2Auto Malware Diaries](zero2auto.md)
 - [Cybersecurity Insights](insights.md)
 - [Challenges Walkthroughs](walkthroughs.md)
-
----
-
-## Latest Content
-
-- [Night Walker Challenge](https://github.com/Rinal-M/dfir_diaries.github.io/blob/main/Night_Walker_Report2.pdf)
