@@ -16,3 +16,7 @@ header_pages:
   - walkthroughs.md
 
 permalink: /:title/
+
+# Custom CSS
+custom_css:
+  styles.css
