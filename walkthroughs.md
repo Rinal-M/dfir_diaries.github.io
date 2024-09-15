@@ -1,11 +1,16 @@
 ---
 layout: page
-title: "Walkthroughs"
+title: "Challenges Walkthroughs"
 permalink: /walkthroughs/
 ---
 
-Here, you’ll find detailed walkthroughs of challenges and CTFs, showcasing step-by-step approaches to solving them.
+Detailed walkthroughs of various challenges and CTFs.
 
-### Walkthroughs:
+## Walkthroughs
 
-- [Night Walker Challenge](https://github.com/Rinal-M/dfir_diaries.github.io/blob/main/Night_Walker_Report2.pdf)
+### [Night Walker Challenge](night_walker.md)
+A walkthrough of the Night Walker malware challenge, discussing how it was solved.
+
+### [Another Challenge](another_challenge.md)
+A detailed walkthrough of another challenge, showcasing the step-by-step solution.
+
