@@ -17,6 +17,16 @@ header_pages:
 
 permalink: /:title/
 
-# Custom CSS
+# # Custom CSS
+# custom_css:
+#   styles.css
+# Add custom inline CSS
 custom_css:
-  styles.css
+  <style>
+    nav a {
+      font-size: 14px;  /* Adjust this to make it smaller */
+    }
+    .site-title {
+      font-size: 24px;  /* This will keep the title larger */
+    }
+  </style>
