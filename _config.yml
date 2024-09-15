@@ -4,6 +4,9 @@ author: "Rinal"
 theme: minima
 markdown: kramdown
 
-# Optional navigation links (can be customized later)
+# Optional navigation links
 header_pages:
   - index.md
+  - zero2auto.md  # New section
+  - insights.md   # New section
+  - walkthroughs.md # New section
