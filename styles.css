@@ -1,9 +1,0 @@
-/* Make navigation links in the top-right smaller */
-nav a {
-    font-size: 14px;  /* You can adjust this to your liking */
-}
-
-/* Keep the title on the top-left larger */
-.site-title {
-    font-size: 48px;  /* Adjust as needed */
-}
